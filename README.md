@@ -10,7 +10,7 @@ Python3 Example: "python3 ./scripts/get_all_db_pages.py"
 
 # Example Of Output
 quickbase_pages {<br>
-  "Default Dashboard": 101,<br>
-  "Code Page One": 2,<br>
-  "Code Page Two": 3,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;"Default Dashboard": 101,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;"Code Page One": 2,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;"Code Page Two": 3,<br>
 }
