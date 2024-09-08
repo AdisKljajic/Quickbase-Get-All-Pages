@@ -75,13 +75,6 @@ class DatabaseClient:
 
 
 def clean_js_to_json(js_data):
-    """
-    Clean up JavaScript-like object notation and convert it to JSON-friendly format.
-    This involves:
-    - Replacing single quotes with double quotes
-    - Converting JavaScript booleans and nulls to their JSON equivalents
-    - Enclosing keys in double quotes if they are not already
-    """
     # Replace True/False/None with JSON-compatible values
     js_data = js_data.replace("True", "true").replace("False", "false").replace("None", "null")
 
