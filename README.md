@@ -4,6 +4,10 @@ which can later be used to extract all pages locally or edit each page individua
 or add new pages using Python. Output will place all items in a Python dictionary
 storing the Page Name along with the Page ID. 
 
+# Run The Following Script Using Terminal 
+Python Example: "python ./scripts/get_all_db_pages.py" 
+Python3 Example: "python3 ./scripts/get_all_db_pages.py" 
+
 # Example Of Output
 quickbase_pages {<br>
   "Default Dashboard": 101,<br>
