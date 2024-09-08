@@ -5,7 +5,7 @@ or add new pages using Python. Output will place all items in a Python dictionar
 storing the Page Name along with the Page ID. 
 
 # Run The Following Script Using Terminal 
-Python Example: "python ./scripts/get_all_db_pages.py" 
+Python Example: "python ./scripts/get_all_db_pages.py" <br>
 Python3 Example: "python3 ./scripts/get_all_db_pages.py" 
 
 # Example Of Output
