@@ -1,3 +1,8 @@
+# Version 2.0 
+# Author Adis Kljajic
+# Quickbase Python Configurations
+# September 7,2024
+
 import requests
 import json
 import os, sys
